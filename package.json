@@ -1,0 +1,26 @@
+{
+    "name": "io-ts-57",
+    "version": "1.0.0",
+    "description": "fail to generate definitions  #57",
+    "main": "src/index",
+    "typings": "defs/index",
+    "module": "src",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "node_modules/.bin/tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pierremarc/io-ts-57.git"
+    },
+    "author": "Pierre Marchand",
+    "license": "AGPL-3.0",
+    "bugs": {
+        "url": "https://github.com/pierremarc/io-ts-57/issues"
+    },
+    "homepage": "https://github.com/pierremarc/io-ts-57",
+    "dependencies": {
+        "io-ts": "*",
+        "typescript": "2.3.4"
+    }
+}
